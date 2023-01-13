@@ -50,6 +50,6 @@ To enter the session please
 # Heading - 5
 ## - Installing Extensions
 
-using different options we actually made text bold and we can explore more options
+using different options after installing extensions we actually made text bold and we can explore more options
 
 **Sample Text**
